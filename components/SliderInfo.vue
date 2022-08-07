@@ -16,12 +16,12 @@
         <span class="slider-bullet" />
       </div>
       <div class="button-container">
-        <button class="slider-button inactive">
+        <button aria-label="button-icon" class="slider-button inactive">
           <svg class="arrow-icon" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
             <path d="M9 4L9 11L4.5 7.5L9 4Z" />
           </svg>
         </button>
-        <button class="slider-button active">
+        <button aria-label="button-icon" class="slider-button active">
           <svg class="arrow-icon" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
             <path d="M6 11L6 4L10.5 7.5L6 11Z" />
           </svg>

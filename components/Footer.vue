@@ -10,19 +10,19 @@
           </template>
         </nav>
         <div class="footer-icons-container">
-          <button class="button-network">
+          <button aria-label="button-icon" class="button-network">
             <img src="@/assets/icons/linkedin.svg" width="31" height="31" class="" alt="">
           </button>
-          <button class="button-network">
+          <button aria-label="button-icon" class="button-network">
             <img src="@/assets/icons/vimeo.svg" width="31" height="31" class="" alt="">
           </button>
-          <button class="button-network">
+          <button aria-label="button-icon" class="button-network">
             <img src="@/assets/icons/instagram.svg" width="31" height="31" class="" alt="">
           </button>
-          <button class="button-network">
+          <button aria-label="button-icon" class="button-network">
             <img src="@/assets/icons/twitter.svg" width="31" height="31" class="" alt="">
           </button>
-          <button class="button-network">
+          <button aria-label="button-icon" class="button-network">
             <img src="@/assets/icons/facebook.svg" width="31" height="31" class="" alt="">
           </button>
         </div>
