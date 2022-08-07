@@ -4,7 +4,7 @@
       <div class="footer-info-container">
         <nav class="nav-links">
           <template v-for="link in links">
-            <a class="footer-link">
+            <a href=".#" class="footer-link">
               {{ link }}
             </a>
           </template>

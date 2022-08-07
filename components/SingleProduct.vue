@@ -3,7 +3,7 @@
     <div class="single-index">
       {{ index }}
     </div>
-    <img src="@/assets/products/group-10@3x.png" alt="">
+    <img class="single-product-image" src="@/assets/products/group-10@3x.png" width="120" height="140" alt="">
   </div>
 </template>
 
@@ -17,12 +17,18 @@ defineProps({
 <style scoped>
 .single-product-container {
   width: 288px;
-  height: auto;
+  height: 100%;
   position: relative;
   background: var(--gray);
   scroll-snap-align: center;
   flex-shrink: 0;
   border-radius: 21px;
+}
+
+.single-product-image {
+  width: 100%;
+  height: 340px;
+  object-fit: contain;
 }
 
 .single-index {

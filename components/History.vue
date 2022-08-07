@@ -55,11 +55,10 @@
 }
 
 .info-title {
-  font-size: 2.25rem;
+  font-size: 2.1rem;
   color: var(--black);
   font-weight: normal;
   line-height: 1.14;
-  hyphens: auto;
   width: 100%;
 }
 
@@ -100,7 +99,7 @@
   }
 
   .info-title {
-    width: 65%;
+    width: 60%;
   }
 
   .info-description {
