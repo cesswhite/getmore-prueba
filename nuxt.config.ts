@@ -4,5 +4,4 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   css: ['@/assets/main.css'],
   target: 'static',
-  app: { baseURL: '/getmore/' }
 })
