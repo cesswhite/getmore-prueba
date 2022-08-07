@@ -66,6 +66,7 @@ const links = ['Inicio', 'Acerca de nosotros', 'Historia', 'Contacto']
   font-size: 13px;
   color: var(--dark-blue);
   line-height: normal;
+  text-decoration: none;
 }
 
 .footer-icons-container {
