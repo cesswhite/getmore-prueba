@@ -1,6 +1,6 @@
 <template>
   <div class="slider-info-container">
-    <img class="slider-img" width="375" height="468" src="/products/ball-color-court-1405355@3x.png" alt="">
+    <img class="slider-img" width="375" height="468" src="@/assets/products/ball-color-court-1405355@3x.png" alt="">
     <div class="slider-info">
       <h2 class="slider-title">
         Nuestras <br>

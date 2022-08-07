@@ -1,6 +1,6 @@
 <template>
   <div class="sidebar-container">
-    <img width="37" height="37" class="logo-img" src="/fill-2.svg" alt="">
+    <img width="37" height="37" class="logo-img" src="@/assets/fill-2.svg" alt="">
   </div>
 </template>
 

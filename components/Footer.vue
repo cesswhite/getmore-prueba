@@ -28,7 +28,7 @@
         </div>
       </div>
       <div class="logo-container">
-        <img width="12" height="12" class="logo-img" src="/fill-2.svg" alt="" />
+        <img width="12" height="12" class="logo-img" src="@/assets/fill-2.svg" alt="" />
       </div>
     </div>
   </footer>

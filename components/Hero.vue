@@ -19,7 +19,7 @@
 
 <style scoped>
 .hero-container {
-  background: url("/hero/group@3x.jpg") no-repeat center center;
+  background: url("@/assets/hero/group@3x.jpg") no-repeat center center;
   background-size: cover;
   width: 100%;
   height: 100vh;
