@@ -1,7 +1,7 @@
 <template>
   <section class="action-image-container">
-    <img src="/wallpaper/action-athlete-ball-342361.png" srcset="/wallpaper/action-athlete-ball-342361@2x.png 2x,
-             /wallpaper/action-athlete-ball-342361@2x.png 3x" class="action-image">
+    <img src="@/assets/wallpaper/action-athlete-ball-342361.png" srcset="@/assets/wallpaper/action-athlete-ball-342361@2x.png 2x,
+             @/assets/wallpaper/action-athlete-ball-342361@2x.png 3x" class="action-image">
   </section>
 </template>
 

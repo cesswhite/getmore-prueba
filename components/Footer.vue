@@ -11,19 +11,19 @@
         </nav>
         <div class="footer-icons-container">
           <button class="button-network">
-            <img src="/icons/linkedin.svg" width="31" height="31" class="" alt="">
+            <img src="@/assets/icons/linkedin.svg" width="31" height="31" class="" alt="">
           </button>
           <button class="button-network">
-            <img src="/icons/vimeo.svg" width="31" height="31" class="" alt="">
+            <img src="@/assets/icons/vimeo.svg" width="31" height="31" class="" alt="">
           </button>
           <button class="button-network">
-            <img src="/icons/instagram.svg" width="31" height="31" class="" alt="">
+            <img src="@/assets/icons/instagram.svg" width="31" height="31" class="" alt="">
           </button>
           <button class="button-network">
-            <img src="/icons/twitter.svg" width="31" height="31" class="" alt="">
+            <img src="@/assets/icons/twitter.svg" width="31" height="31" class="" alt="">
           </button>
           <button class="button-network">
-            <img src="/icons/facebook.svg" width="31" height="31" class="" alt="">
+            <img src="@/assets/icons/facebook.svg" width="31" height="31" class="" alt="">
           </button>
         </div>
       </div>

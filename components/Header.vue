@@ -1,6 +1,6 @@
 <template>
   <header class="header-container align-items">
-    <img width="37" height="37" class="logo-img" src="/fill-2.svg" alt="" />
+    <img width="37" height="37" class="logo-img" src="@/assets/fill-2.svg" alt="" />
     <nav class="align-items nav-container">
       <template v-for="link in links">
         <Link>

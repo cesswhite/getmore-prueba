@@ -3,7 +3,7 @@
     <div class="single-index">
       {{ index }}
     </div>
-    <img src="/products/group-10@3x.png" alt="">
+    <img src="@/assets/products/group-10@3x.png" alt="">
   </div>
 </template>
 
